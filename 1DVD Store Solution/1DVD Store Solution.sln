@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1DVD Store Solution", "1DVD Store Solution.vcxproj", "{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Debug|x64.ActiveCfg = Debug|x64
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Debug|x64.Build.0 = Debug|x64
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Debug|x86.Build.0 = Debug|Win32
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Release|x64.ActiveCfg = Release|x64
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Release|x64.Build.0 = Release|x64
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Release|x86.ActiveCfg = Release|Win32
+		{674882F9-1C62-4C9B-A6F4-7434AF92F5D1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E550F3B-32B0-4DB2-936D-2BCED50FC436}
+	EndGlobalSection
+EndGlobal
